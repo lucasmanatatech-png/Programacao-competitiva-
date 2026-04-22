@@ -4,10 +4,15 @@
 📂 Estrutura
 
 Os problemas estão organizados da seguinte forma:
+
 📁 beginner/
+
 📁 easy/
+
 📁 medium/
+
 📁 hard/
+
 Cada pasta contém soluções separadas por problema.
 
 🚀 Tecnologias
