@@ -37,10 +37,10 @@ Problemas retirados de:
 * LeetCode
 
 📈 Progresso
-beginner: 1 problemas 
-Easy: 0 problemas
-Medium: 0 problemas
-Hard: 0 problemas
+* beginner: 1 problemas 
+* Easy: 0 problemas
+* Medium: 0 problemas
+* Hard: 0 problemas
 
 🛠️ Como usar
 
